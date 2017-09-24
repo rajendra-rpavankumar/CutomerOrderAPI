@@ -1,0 +1,1 @@
+﻿"..\..\..\packages\ReportGenerator.3.0.0\tools\ReportGenerator.exe" "-reports:OrderManagementAPITests_coverage.xml" "-targetdir:CoverageReport"
